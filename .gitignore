@@ -1,0 +1,11 @@
+bin
+gen
+local.properties
+target/
+build/
+MapVisualizer/build
+.idea
+.gradle
+*.iml
+MapVisualizer/*.iml
+signing.properties
